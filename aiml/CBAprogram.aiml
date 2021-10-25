@@ -1,4 +1,4 @@
-<aiml version 1.0 encoding = 'UTF-8'>
+<aiml version='1.0' encoding = 'UTF-8'>
 <category>
 <pattern> Is this course free?  </pattern>
 <template> Yes, this is a free course and you can learn the contents free of cost. There are six modules in this course and you have unlimited access to all of them once you enrol. At the end of the course, if you wish to obtain a verified certificate, then you have to pay INR 5000 + Applicable Taxes extra (for learners from India) or USD 100 + Applicable Taxes extra (for learners from outside India). </template>
