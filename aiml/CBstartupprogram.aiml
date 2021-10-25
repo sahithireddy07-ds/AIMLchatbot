@@ -1,0 +1,44 @@
+<aiml version 1.0 encoding='UTF-8'>
+<category>
+<pattern> How do I enrol for the CBS program? </pattern>
+<template> The enrolment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
+prajna.duk.ac.in or can directly register at admission.kba.ai/edii </template>
+</category>
+
+<category>
+<pattern> What will I learn from this Entrepreneurship Training program? </pattern>
+<template> The CBS program is a one-box toolkit to polish your business skills and sharpen them to a viable venture. You’ll be trained in everything from identifying a business opportunity to evaluating your business idea, accessing the right market to exploring the risks and rewards in entrepreneurship, validating your business strategies to discovering key financial decisions, understanding how to raise capitals and the process of connecting with investors, fundamentals and application arenas of blockchain in the business domain. You’ll be thoroughly trained in how to apply the learned entrepreneurial skills in building a business surrounding blockchain.</template>
+</category>
+
+<category>
+<pattern> Are there any prerequisites to join this Blockchain Entrepreneurship Training? </pattern>
+<template> No, there are no prerequisites to join this course. The course is open for students, graduates, business professionals, aspiring entrepreneurs who want to kick start their startup world or migrate their existing business to the blockchain. </template>
+</category>
+
+<category>
+<pattern> Are there any criteria for course certification? </pattern>
+<template> Yes. A minimum of 60% of marks in both theory and project report is mandatory for earning your certification in CBS. </template>
+</category>
+
+<category>
+<pattern> Can I have access to any additional reading materials under CBS? </pattern>
+<template> Yes, apart from the day’s lecture, you’ll have an access to our Edx course platform comprising of additional reading materials and infographics. Every day a new set of modules will be released to you complimenting your day’s lecture. </template>
+</category>
+
+<category>
+<pattern> Will I have access to the course materials in future?  </pattern>
+<template> Yes, in our blockchain entrepreneurship training, you’ll have access to the materials on a regular basis as you progress through the course. You’ll have lifetime access to all these contents giving you an additional benefit of future reference. </template>
+</category>
+
+<category>
+<pattern> What are the technical requirements needed to start with the program?</pattern>
+<template> CBS program is designed to work on any internet-connected device. A steady broadband internet connectivity is highly recommended to access the rich media in the program. </template>
+</category>
+
+<category>
+<pattern> Will EDII or KBA help in starting my business? </pattern>
+<template> Kerala Blockchain Academy has teamed up with
+Next Top Blockchain Startup
+opening a new egress of applying the skills you learned in blockchain and end building a business around them. Next Top Blockchain Startup helps in building the next generation of blockchain entrepreneurs. They encourage young aspiring entrepreneurs to pitch their ideas to and connect with leaders of the global blockchain ecosystem. </template>
+</category>
+</aiml>
