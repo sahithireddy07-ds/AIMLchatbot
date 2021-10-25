@@ -1,0 +1,29 @@
+<aiml version 1.0 encoding = 'UTF-8'>
+<category>
+<pattern> Is this course free?  </pattern>
+<template> Yes, this is a free course and you can learn the contents free of cost. There are six modules in this course and you have unlimited access to all of them once you enrol. At the end of the course, if you wish to obtain a verified certificate, then you have to pay INR 5000 + Applicable Taxes extra (for learners from India) or USD 100 + Applicable Taxes extra (for learners from outside India). </template>
+</category>
+<category>
+<pattern> What are the criteria for getting the certificate? </pattern>
+<template> There are six modules in this course and at the end of each module there will be an assessment through MCQ. To get the certificate, you need to complete all the quizzes with at least 60% marks. After completing the quizzes you may pay the fees for acquiring the certificate.</template>
+</category>
+
+<category>
+<pattern> How and where can I opt for the certificate? </pattern>
+<template> The online form to request the certificate and make the payment will be visible to you once you learn all the modules and attempt all the quizzes. Once you complete the end assessment formalities, you can submit the certificate request form and pay the required fee online. On receiving the payment, we will send the digital copy of your certificate to your registered e-mail address.</template>
+</category>
+
+<category>
+<pattern> How can I verify the issued certificate? </pattern>
+<template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
+
+<category>
+<pattern> Who will be issuing the final certificate? </pattern>
+<template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
+</category>
+
+<category>
+<pattern> How long a learner can access the contents? </pattern>
+<template> Paid candidates will have life long access until the course is live on the website. Unpaid candidates will have FREE access to the course content for two months from the date of enrolment.</template>
+</category>
+</aiml>
