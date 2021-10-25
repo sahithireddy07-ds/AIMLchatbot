@@ -1,1 +1,82 @@
+<aiml version="1.0" encoding="UTF-8">
+<category>
+<pattern>
+Is this course free?
+</pattern>
+<template>
+No, this course is not free. However, selected units are free for you to audit to get a gist of the course. Upon paying the course fee, you are entitled to both course content and the certification. The course comprises nine modules and you have unlimited access to all of them upon paying the fees.
+</template>
+</category>
 
+<category>
+<pattern>
+What is the eligibility criteria for joining this course? Are there any pre-requisites?
+</pattern>
+<template>
+The course is open to anyone who has an intermediate level of knowledge on any object-oriented programming language, preferably, Java or Kotlin. Also, basic knowledge on Blockchain technology is recommended though not a mandatory pre-requisite. Candidates new to blockchain technology, are recommended to enrol and audit the Certified Blockchain Associate (CBA Online) Course offered by KBA.
+</template>
+</category>
+
+<category>
+<pattern>
+What are the criteria for getting the certificate?
+</pattern>
+<template>
+There are five MCQs which are mandatory to attend and you need to score a minimum of 50% marks in each quiz. A 20% weightage will be taken from the quiz to add up to your final score. The rest 80% will be for your final project evaluation. To successfully complete and get certified, you need to score a minimum of 65%.
+</template>
+</category>
+
+<category>
+<pattern>
+Why some contents are not visible or accessible?
+</pattern>
+<template>
+Please be informed that this is a paid developer course offered by KBA. We have set some contents visible for you to get a flavour of the course and to get an idea on how the course is structured. Once you pay the course fee and enrol, you will have access to all the contents.
+</template>
+</category>
+
+<category>
+<pattern>
+Is there any instructor-led sessions as part of this course?
+</pattern>
+<template>
+For this advanced developer program, we use a hybrid mode of learning encompassing self-paced and instructor-led sessions. Once enrolled in the paid course, you can request for instructor-led interactive sessions. These sessions will be held online and learners can make use of this platform to interact with the expert trainers for clearing their doubts and other technical queries. Instructor-led sessions advantage with in-person clarifications than acquired from the discussion forum.
+</template>
+</category>
+
+<category>
+<pattern>
+How can I verify the issued certificate?
+</pattern>
+<template>
+We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using
+https://verify.kba.ai
+</template>
+</category>
+
+<category>
+<pattern>
+Who will be issuing the final certificate?
+</pattern>
+<template>
+If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management – Kerala (IIITM-K), which is an autonomous institution established by the Government of Kerala.
+</template>
+</category>
+
+<category>
+<pattern>
+How long a learner can access the contents?
+</pattern>
+<template>
+Once you enrol into the Certified Corda Developer Course, you will have full access to the course contents for six months.
+</template>
+</category>
+
+<category>
+<pattern>
+Why should you enroll into the paid version?
+</pattern>
+<template>
+By joining the paid version, you will have access to our complete course content and all the future enhancements for six months. You can enjoy the support of experienced trainers in our discussion forum throughout the course period. Also, we can provide interactive sessions with the trainers on request if you seek more clarifications and support.
+</template>
+</category>

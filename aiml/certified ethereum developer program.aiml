@@ -1,0 +1,64 @@
+<aiml version="1.0" encoding="UTF-8">
+<category>
+<pattern>
+Are there any prerequisites to join this program?
+</pattern>
+<template>
+Knowledge of Full Stack development using NodeJS is mandated.
+</template>
+</category>
+
+<category>
+<pattern>
+How will the program structure be?
+</pattern>
+<template>
+The training program is offered in self-paced mode.
+</template>
+</category>
+
+<category>
+<pattern>
+What are the criteria for getting the certificate?
+</pattern>
+<template>
+Successful completion of all the assessment quizzes and a project. Should acquire a minimum score of 60% to get certified.
+</template>
+</category>
+
+<category>
+<pattern>
+How long a learner can access the contents?
+</pattern>
+<template>
+Learner gets lifetime access to the course contents.
+</template>
+</category>
+
+<category>
+<pattern>
+Who will be issuing the certificate?
+</pattern>
+<template>
+KBA will issue the certificate that is co-stamped by the Kerala Development and Innovation Strategic Council ( K-DISC) and MLG Blockchain.
+</template>
+</category>
+
+<category>
+<pattern>
+How long will it take to get my certificate?
+</pattern>
+<template>
+Certificates will be issued in a month of project submission followed its evaluation at the registered email address.
+</template>
+</category>
+
+<category>
+<pattern>
+How can I verify the issued certificate?
+</pattern>
+<template>
+We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using
+https://verify.kba.ai
+</template>
+</category>
