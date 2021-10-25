@@ -1,4 +1,4 @@
-<aiml version 1.0 encoding='UTF-8'>
+<aiml version = '1.0' encoding='UTF-8'>
 <category>
 <pattern> How do I enrol for the CBS program? </pattern>
 <template> The enrolment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
