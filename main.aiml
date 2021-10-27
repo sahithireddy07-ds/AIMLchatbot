@@ -1,0 +1,14 @@
+<aiml version="1.0">
+    <category>
+        <pattern>LOAD AIML B</pattern>
+        <template>
+         <learn>aiml/Block chain foundation.aiml</learn>
+         <learn>aiml/CBA program.aiml</learn>
+         <learn>aiml/CB startupprogram.aiml</learn>
+         <learn>aiml/Ethereum Fundamentals Program.aiml</learn>
+         <learn>aiml/certified corda developer program.aiml</learn>
+         <learn>aiml/certified ethereum developer program.aiml</learn>
+         <learn>aiml/certified hyperledger fabric developer program.aiml</learn>
+       </template>
+      </category>
+ </aiml>
