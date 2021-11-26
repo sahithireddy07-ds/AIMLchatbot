@@ -189,6 +189,10 @@
       </category>
    </topic>
     <category>
+       <pattern>certified block chain startup</pattern>
+       <template><srai>certified block chain startup _</srai></template>
+    </category>
+    <category>
       <pattern>certified block chain startup _</pattern>
       <template><think><set name="topic">CBstartup</set></think>
       The course is open to individuals, aspiring and existing entrepreneurs and students who wish to establish their own blockchain startups or business. wanna know more about eligibility criteria,fee,exam to get certificate?
@@ -246,6 +250,14 @@
       </category>
    </topic>
    <category>
+      <pattern>block chain fundamentals</pattern>
+      <template><srai>block chain fundamental _</srai></template>
+   </category>
+   <category>
+      <pattern>block chain fundamental</pattern>
+      <template><srai>block chain fundamental _</srai></template>
+   </category>
+   <category>
       <pattern>block chain fundamental _</pattern>
       <template><think><set name="topic">BCF</set></think>
       The foundation program tour across the inner workings and mechanics of the blockchain by explaining concepts like decentralization, peer-to-peer networking, smart contract automation, and many more.. wanna know more about eligibility criteria,fee,exam to get certificate?
@@ -292,31 +304,39 @@
             You will receive the certificate within one week at your registered email address, after the end date of your cohort.
         </template>
     </category>
-
-
-      <category>
+     <category>
         <pattern>exam</pattern>
         <template>The candidates have to complete all the assessment quizzes and should score a minimum of 60% marks for each quiz to get certified. </template>
-      </category>
+     </category>
       
-      <category>
+     <category>
           <pattern>what will i learn from this program</pattern>
           <template>You’ll be trained in everything from identifying a business opportunity to evaluating your business idea, accessing the right market to exploring the risks and rewards in entrepreneurship, validating your business strategies to discovering key financial decisions, understanding how to raise capitals and the process of connecting with investors, fundamentals and application arenas of blockchain in the business domain. You’ll be thoroughly trained in how to apply the learned entrepreneurial skills in building a business surrounding blockchain.</template>
-      </category>
+     </category>
        
-      <category>
+     <category>
          <pattern> How do I enrol for this program? </pattern>
          <template> The enrolment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
             prajna.duk.ac.in or can directly register at admission.kba.ai/edii </template>
-      </category>
+     </category>
    </topic>
    
+   <category>
+      <pattern>ethereum fundamentals</pattern>
+      <template><srai>ethereum fundamental</srai></template>
+   </category>
+   <category>
+      <pattern>ethereum fundamental _</pattern>
+      <template><srai>ethereum fundamental</srai></template>
+   </category>
+         
    <category>
       <pattern>ethereum fundamental</pattern>
       <template><think><set name="topic">EFP</set></think>
       The free course help in mastering Ethereum development fundamentals that individuals become primed in developing smart contracts and decentralized applications on Ethereum blockchain.. wanna know more about eligibility criteria,fee,exam to get certificate?
       </template>
    </category>
+         
    <topic name="EFP">
       <category>
           <pattern>eligibility criteria</pattern>
@@ -364,7 +384,11 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
         <template>The candidates have to complete all the assessment quizzes and should score a minimum of 70% marks for each quiz to get certified.</template>
     </category>
    </topic>
-       <category>
+    <category>
+       <pattern>hyperledger fabric _</pattern>
+       <template><srai>hyperledger fabric</srai></template>
+    </category>
+    <category>
       <pattern>hyperledger fabric</pattern>
       <template><think><set name="topic">HLF</set></think>
       The foundation program tour across the inner workings and mechanics of the blockchain by explaining concepts like decentralization, peer-to-peer networking, smart contract automation, and many more.. wanna know more about eligibility criteria,fee,exam to get certificate?
