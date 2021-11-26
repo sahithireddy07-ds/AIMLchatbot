@@ -7,78 +7,34 @@
    <category>
        <pattern>How many courses are available</pattern>
        <template>In total there are 7 courses, where courses are categorized into fundamental and developer
-          <reply>
-              <text>fundamental</text>
-              <postback>fundamental courses</postback>
-          </reply>
-          <reply>
-              <text>developer</text>
-              <postback>
-                  developer courses
-              </postback>
-          </reply>
        </template>
    </category>
    <category>
        <pattern>fundamental courses</pattern>
        <template>
-           <reply>
-               <text>block chain fundamentals</text>
-               <postback>block chain fundamental _</postback>
-           </reply>
-           <reply>
-               <text>Certified Block chain associate</text>
-               <postback>certified block chain associate</postback>
-           </reply>
-           <reply>
-               <text>Ethereum fundamentals</text>
-               <postback>ethereum fundamental</postback>
-            </reply>
-            <reply>
-                <text>Certified Block chain start up</text>
-                <postback>certified block chain startup _</postback>
-           </reply>
+           block chain fundamentals,
+           Certified Block chain associate,
+          Ethereum fundamentals,
+          Certified Block chain start up.
        </template>
    </category>
    <category>
        <pattern>developer courses</pattern>
        <template>
-           <reply>
-               <text>Corda</text>
-               <postback>corda _</postback>
-           </reply>
-           <reply>
-               <text>Hyperledger fabric</text>
-               <postback>hyperledger fabric</postback>
-           </reply>
-           <reply>
-               <text>Ethereum developer</text>
-               <postback>ethereum developer</postback>
-           </reply>
+           Corda,
+          Hyperledger fabric,
+          Ethereum developer.
         </template>
+   </category>
+   <category>
+      <pattern>corda</pattern>
+      <template><srai>corda _</template>
    </category>
    <category>
       <pattern>corda _</pattern>
       <template><think><set name="topic">corda</set></think>
       Corda is a developer course.
-      <reply>
-          <text>pre-requisite</text>
-          <postback>eligibility criteria</postback>
-      </reply>
-      <reply>
-          <text>fees</text>
-          <postback>fee</postback>
-      </reply>
-      <reply>
-          <text>exam</text>
-          <postback>exam</postback>
-      </reply>
-      <reply>
-          <text>certificate</text>
-          <postback>certificate</postback>
-      </reply>
       </template>
-   </category>
    <topic name="corda">
       <category>
         <pattern>eligibility criteria</pattern>
