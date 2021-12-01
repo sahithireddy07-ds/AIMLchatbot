@@ -32,14 +32,15 @@
         </template>
    </category>
    <category>
-      <pattern>corda</pattern>
+      <pattern>corda _</pattern>
       <template><srai>corda _</template>
    </category>
    <category>
-      <pattern>corda _</pattern>
+      <pattern>corda</pattern>
       <template><think><set name="topic">corda</set></think>
       Corda is a developer course.
       </template>
+    </category>
    <topic name="corda">
       <category>
         <pattern>criteria</pattern>
