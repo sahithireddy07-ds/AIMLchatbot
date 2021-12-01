@@ -33,15 +33,15 @@
    </category>
    <category>
       <pattern>corda _</pattern>
-      <template><srai>corda</srai></template>
+      <template><srai>certified corda developer program</srai></template>
    </category>
    <category>
-      <pattern>corda</pattern>
-      <template><think><set name="topic">corda</set></think>
+      <pattern>certified corda developer program</pattern>
+      <template><think><set name="topic">certified corda developer program</set></think>
       Corda is a developer course.
       </template>
     </category>
-   <topic name="corda">
+   <topic name="certified corda developer program">
       <category>
         <pattern>criteria</pattern>
         <template>The course is open to anyone who has an intermediate level of knowledge on any object-oriented programming language, preferably, Java or Kotlin. Also, basic knowledge on Blockchain technology is recommended though not a mandatory pre-requisite. Candidates new to blockchain technology, are recommended to enrol and audit the Certified Blockchain Associate (CBA Online) Course offered by KBA.</template>
@@ -108,8 +108,8 @@
       </category>
       
       <category>
-        <pattern>exam</pattern>
-        <template>There are five MCQs which are mandatory to attend and you need to score a minimum of 50% marks in each quiz. A 20% weightage will be taken from the quiz to add up to your final score. The rest 80% will be for your final project evaluation. To successfully complete and get certified, you need to score a minimum of 65%.</template>
+        <pattern>_ exam</pattern>
+         <template><srai>exam</srai></template>
       </category>
 
       <category>
