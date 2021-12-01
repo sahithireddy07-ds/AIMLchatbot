@@ -33,7 +33,7 @@
    </category>
    <category>
       <pattern>corda _</pattern>
-      <template><srai>corda _</template>
+      <template><srai>corda</srai></template>
    </category>
    <category>
       <pattern>corda</pattern>
