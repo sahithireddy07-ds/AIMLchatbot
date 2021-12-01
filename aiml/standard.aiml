@@ -2,7 +2,12 @@
 <aiml>
    <category>
       <pattern>*</pattern>
-      <template>I dont know</template>  
+      <template>
+         <random>
+            <li>Can you be more specific?</li>
+            <li>Ask me a valid question</li>
+         </random>
+      </template>  
    </category>
    <category>
        <pattern>How many courses are available</pattern>
@@ -83,6 +88,12 @@
         <pattern>eligibility criteria</pattern>
         <template>Knowledge of Full Stack development using NodeJS is mandated.</template>
       </category>
+      
+      <category>
+        <pattern>eligibility _</pattern>
+         <template><srai>eligiblity criteria</srai></template>
+      </category>
+      
       <category>
         <pattern>Duration</pattern>
         <template>12 weeks.</template>
