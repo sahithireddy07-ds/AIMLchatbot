@@ -111,12 +111,43 @@
         <pattern>_ exam</pattern>
          <template><srai>exam</srai></template>
       </category>
-
+      
+      <category>
+        <pattern>exam _</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>qualify_</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ qualify _</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
       <category>
         <pattern>certificate</pattern>
         <template>If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management – Kerala (IIITM-K), which is an autonomous institution established by the Government of Kerala.We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using
              https://verify.kba.ai</template>
       </category>
+      
+      <category>
+        <pattern>_ certificate _</pattern>
+         <template><srai>certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ certificate</pattern>
+         <template><srai>certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>certificate _</pattern>
+         <template><srai>certificate</srai></template>
+      </category>
+      
    </topic>
    <category>
       <pattern>ethereum developer</pattern>
