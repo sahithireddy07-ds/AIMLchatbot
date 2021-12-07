@@ -53,6 +53,26 @@
       </category>
       
       <category>
+        <pattern>_ pre-requisite _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ pre-requisites _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ pre-requisite</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ pre-requisites</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
         <pattern>criteria _</pattern>
         <template>The course is open to anyone who has an intermediate level of knowledge on any object-oriented programming language, preferably, Java or Kotlin. Also, basic knowledge on Blockchain technology is recommended though not a mandatory pre-requisite. Candidates new to blockchain technology, are recommended to enrol and audit the Certified Blockchain Associate (CBA Online) Course offered by KBA.</template>
       </category>
@@ -103,6 +123,16 @@
       </category>
    
       <category>
+        <pattern>_ free</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ free _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
         <pattern>exam</pattern>
         <template>There are five MCQs which are mandatory to attend and you need to score a minimum of 50% marks in each quiz. A 20% weightage will be taken from the quiz to add up to your final score. The rest 80% will be for your final project evaluation. To successfully complete and get certified, you need to score a minimum of 65%.</template>
       </category>
@@ -118,6 +148,26 @@
       </category>
       
       <category>
+        <pattern>_ quiz _</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ quizzes _</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>quiz</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>quizzes</pattern>
+         <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
         <pattern>qualify_</pattern>
          <template><srai>exam</srai></template>
       </category>
@@ -128,24 +178,24 @@
       </category>
       
       <category>
-        <pattern>certificate</pattern>
+        <pattern> verify the certificate</pattern>
         <template>If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management – Kerala (IIITM-K), which is an autonomous institution established by the Government of Kerala.We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using
              https://verify.kba.ai</template>
       </category>
       
       <category>
         <pattern>_ certificate _</pattern>
-         <template><srai>certificate</srai></template>
+         <template><srai>verify the certificate</srai></template>
       </category>
       
       <category>
         <pattern>_ certificate</pattern>
-         <template><srai>certificate</srai></template>
+         <template><srai>verify the certificate</srai></template>
       </category>
       
       <category>
         <pattern>certificate _</pattern>
-         <template><srai>certificate</srai></template>
+         <template><srai>verify the certificate</srai></template>
       </category>
       
    </topic>
@@ -178,6 +228,26 @@
       </category>
       
       <category>
+        <pattern>_ pre-requisite _</pattern>
+        <template><srai>criteria</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ pre-requisites _</pattern>
+        <template><srai>criteria</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ pre-requisite</pattern>
+        <template><srai>criteria</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ pre-requisites</pattern>
+        <template><srai>criteria</srai></template>
+      </category> 
+      
+      <category>
         <pattern>criteria _</pattern>
          <template><srai>criteria</srai></template>
       </category>
@@ -188,23 +258,28 @@
       </category>
       
       <category>
-        <pattern>Duration</pattern>
+        <pattern>duration</pattern>
         <template>12 weeks.</template>
       </category>
       
       <category>
         <pattern>_ duration _</pattern>
-         <template><srai>Duration</srai></template>
+         <template><srai>duration</srai></template>
       </category>
       
       <category>
         <pattern>_ duration</pattern>
-        <template><srai>Duration</srai></template>
+        <template><srai>duration</srai></template>
       </category>
       
       <category>
         <pattern>duration _</pattern>
-        <template><srai>Duration</srai></template>
+        <template><srai>duration</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_long _</pattern>
+        <template><srai>duration</srai></template>
       </category>
       
       <category>
@@ -217,7 +292,17 @@
         <template><srai>fee</srai></template>
       </category>
          
-       <category>
+      <category>
+        <pattern>_ free</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>_ free _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
         <pattern>fee _</pattern>
         <template><srai>fee</srai></template>
       </category>
@@ -278,6 +363,12 @@
          <template><srai>criteria for certificate</srai></template>
       </category>
       
+      
+      <category>
+        <pattern>_ criteria for the certificate _</pattern>
+         <template><srai>criteria for certificate</srai></template>
+      </category>
+      
       <category>
         <pattern>_ criteria for getting the certificate _</pattern>
          <template><srai>criteria for certificate</srai></template>
@@ -298,34 +389,24 @@
         <template>Successful completion of all the assessment quizzes and a project. Should acquire a minimum score of 60% to get certified.
         </template>
       </category>
-
+      
       <category>
        <pattern>access the contents</pattern>
        <template>Learner gets lifetime access to the course contents.</template>
       </category>
       
       <category>
-       <pattern>_ access the contents</pattern>
+       <pattern>_ access _</pattern>
         <template><srai>access the contents</srai></template>
       </category>
       
      <category>
-       <pattern>_ access the content</pattern>
+       <pattern>_ access</pattern>
         <template><srai>access the contents</srai></template>
       </category>
       
       <category>
-       <pattern>_ access the contents _</pattern>
-        <template><srai>access the contents</srai></template>
-      </category>
-      
-      <category>
-       <pattern>_ access the content _</pattern>
-        <template><srai>access the contents</srai></template>
-      </category>
-      
-      <category>
-       <pattern>access the content</pattern>
+       <pattern>access _</pattern>
         <template><srai>access the contents</srai></template>
       </category>
       
@@ -335,32 +416,7 @@
       </category>
       
       <category>
-        <pattern>_ issuing the certificate</pattern>
-        <template><srai>issuing the certificate</srai></template>
-      </category>
-      
-      <category>
-        <pattern>_ issuing the certificate _</pattern>
-        <template><srai>issuing the certificate</srai></template>
-      </category>
-      
-      <category>
-        <pattern>_ issuing the certificate _</pattern>
-        <template><srai>issuing the certificate</srai></template>
-      </category>
-
-      <category>
-        <pattern>issue the certificate</pattern>
-        <template><srai>issuing the certificate</srai></template>
-      </category>
-      
-      <category>
         <pattern>_ issue the certificate</pattern>
-        <template><srai>issuing the certificate</srai></template>
-      </category>
-      
-      <category>
-        <pattern>issuing the certificate _</pattern>
         <template><srai>issuing the certificate</srai></template>
       </category>
       
@@ -369,6 +425,16 @@
         <template><srai>issuing the certificate</srai></template>
       </category>
       
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+
+      <category>
+        <pattern>issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+    
       <category>
         <pattern>get my certificate</pattern>
         <template>Certificates will be issued in a month of project submission followed its evaluation at the registered email address.</template>
@@ -385,7 +451,7 @@
       </category>
       
       <category>
-        <pattern>_get the certificate</pattern>
+        <pattern>get my certificate _</pattern>
         <template><srai>get my certificate</srai></template>
       </category>
       
@@ -394,6 +460,16 @@
         <template><srai>get my certificate</srai></template>
       </category>
       
+      <category>
+        <pattern>_ get the certificate</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ receive the certificate</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+     
       <category>
         <pattern>verify the certificate</pattern>
         <template>We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using https://verify.kba.ai</template>
@@ -413,6 +489,57 @@
         <pattern>verify the certificate _</pattern>
         <template><srai>verify the certificate</srai></template>
       </category>  
+      
+      <category>
+        <pattern>exam</pattern>
+        <template>Based on the Online Quizzes and Final Project</template>
+      </category>  
+         
+      <category>
+        <pattern>_ exam</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ quiz _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
    </topic>
    
    <category>
@@ -652,22 +779,59 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
         <template>The candidates have to complete all the assessment quizzes and should score a minimum of 70% marks for each quiz to get certified.</template>
     </category>
    </topic>
-    <category>
-       <pattern>hyperledger fabric _</pattern>
-       <template><srai>hyperledger fabric</srai></template>
-    </category>
-    <category>
-      <pattern>hyperledger fabric</pattern>
+   
+   <category>
+       <pattern>hyperledger _</pattern>
+       <template><srai>certified hyperledger fabric developer program</srai></template>
+   </category>
+   
+   <category>
+      <pattern>certified hyperledger fabric developer program</pattern>
       <template><think><set name="topic">HLF</set></think>
       The foundation program tour across the inner workings and mechanics of the blockchain by explaining concepts like decentralization, peer-to-peer networking, smart contract automation, and many more.. wanna know more about eligibility criteria,fee,exam to get certificate?
       </template>
-   </category>
+  </category>
    <topic name="HLF">
       <category>
-          <pattern>eligibility criteria</pattern>
+          <pattern>criteria</pattern>
           <template>The pre-requisite for joining the CHF Self-Paced program is a thorough knowledge on Blockchain ( If you do not have knowledge on Blockchain technology, it is highly recommended to enrol and audit the Certified Blockchain Associate Course offered by KBA)
 (CBA Online)
 and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS).</template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>criteria _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ pre-requisites _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>pre-requisites _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>pre-requisite _</pattern>
+        <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ pre-requisite _</pattern>
+        <template><srai>criteria</srai></template>
       </category>
     
       <category>
@@ -676,33 +840,189 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
       </category>
       
       <category>
-        <pattern> How can I verify the issued certificate</pattern>
+        <pattern>_ fee _</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fee</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fee _</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees _</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees _</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ free _</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_free</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees</pattern>
+         <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate</pattern>
         <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
       </category>
       
       <category>
-        <pattern> _ issuing the final certificate </pattern>
+        <pattern>_ verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ verify the certificate</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issue the certificate </pattern>
         <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
       </category>
       
       <category>
-        <pattern>_ access the contents </pattern>
+        <pattern> _ issue the certificate </pattern>
+        <template><srai>issue the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern> _ issue the certificate _</pattern>
+        <template><srai>issue the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issue the certificate _</pattern>
+        <template><srai>issue the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>access</pattern>
         <template>Once you enrol into the self paced Certified Hyperledger Fabric Developer course, you will have lifetime access to the course contents.</template>
       </category>
       
       <category>
-        <pattern>How long will it take to get my certificate</pattern>
+        <pattern> _ access _</pattern>
+        <template><srai>access</srai></template>
+      </category>
+      
+      <category>
+        <pattern> access _</pattern>
+        <template><srai>access</srai></template>
+      </category>
+      
+      <category>
+        <pattern> _ access</pattern>
+        <template><srai>access</srai></template>
+      </category>
+      
+      <category>
+        <pattern>get the certificate</pattern>
         <template>
             You will receive the certificate within one week at your registered email address, after the end date of your cohort.
         </template>
+    </category>
+      
+    <category>
+        <pattern>_ get the certificate</pattern>
+        <template><srai>get the certificate</srai></template>
+    </category>
+      
+    <category>
+        <pattern> _ get the certificate _</pattern>
+        <template><srai>get the certificate</srai></template>
+    </category>
+      
+    <category>
+        <pattern> _ receive the certificate</pattern>
+        <template><srai>get the certificate</srai></template>
     </category>
     
     <category>
         <pattern>exam</pattern>
         <template>There are four Section-Wise MCQs which are mandatory to attend and you need to score a minimum of 50% marks in each quiz. A 20% weightage will be taken from the quiz to add up to your final score. The rest 80% will be for your final project evaluation. To successfully complete and get certified, you need to score a minimum of 60%.</template>
     </category>
-   </topic>
+    
     <category>
+        <pattern>_ exam</pattern>
+        <template><srai>exam</srai></template>
+    </category>
+      
+    <category>
+        <pattern>_ exam _</pattern>
+        <template><srai>exam</srai></template>
+    </category>
+      
+    <category>
+        <pattern> _  quiz</pattern>
+        <template><srai>exam</srai></template>
+    </category>  
+      
+    <category>
+        <pattern>quiz</pattern>
+        <template><srai>exam</srai></template>
+    </category>  
+      
+    <category>
+        <pattern>quizzes</pattern>
+        <template><srai>exam</srai></template>
+    </category>
+      
+    <category>
+        <pattern>_ quizzes</pattern>
+        <template><srai>exam</srai></template>
+    </category>  
+      
+   <category>
+        <pattern> _ quiz _</pattern>
+        <template><srai>exam</srai></template>
+   </category>   
+      
+   <category>
+        <pattern>instructor-led sessions</pattern>
+        <template>There are no instructor-led sessions under this developer program.During the project development phase, the learner can seek the instructor support via Discussion Forum.</template>
+   </category>  
+     
+   <category>
+        <pattern>_ instructor _</pattern>
+        <template><srai>instructor-led sessions</srai></template>
+   </category> 
+      
+   <category>
+        <pattern>_ instructor- _</pattern>
+        <template><srai>instructor-led sessions</srai></template>
+   </category>    
+      
+  </topic>
+   <category>
      <pattern>Hello</pattern>
      <template>
       <random>
@@ -723,7 +1043,7 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
           <postback>contact</postback>
       </reply>
      </template>
-    </category>
+   </category>
    
    <category>
        <pattern>kba</pattern>
@@ -733,19 +1053,69 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
    <category>
        <pattern>contact</pattern>
        <template>
-        <reply>
-           <text>email</text>
-           <postback>email</postback>
-       </reply>
-       <reply>
-           <text>phone</text>
-           <postback>call</postback>
-       </reply>
+        email,phone
        </template>
    </category>
+   
+   <category>
+       <pattern>_ contact</pattern>
+       <template>
+          <srai>contact</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>contact _</pattern>
+       <template>
+          <srai>contact</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>_ contact _</pattern>
+       <template>
+          <srai>contact</srai>
+       </template>
+   </category>
+   
    <category>
        <pattern>email</pattern>
        <template>kba.admin@iiitmk.ac.in</template>
+   </category>
+   
+   <category>
+       <pattern>_ mail _</pattern>
+       <template>
+          <srai>email</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>mail _</pattern>
+       <template>
+          <srai>email</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>email _</pattern>
+       <template>
+          <srai>email</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>_ email _</pattern>
+       <template>
+          <srai>email</srai>
+       </template>
+   </category>
+   
+   <category>
+       <pattern>mail</pattern>
+       <template>
+          <srai>email</srai>
+       </template>
    </category>
    
    <category>
@@ -753,12 +1123,27 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
        <template>+91-471-2784-145 / 154</template>
    </category>
    
+   <category>
+       <pattern>phone</pattern>
+      <template><srai>call</srai></template>
+   </category>
+   
+   <category>
+       <pattern>phone call</pattern>
+      <template><srai>call</srai></template>
+   </category>
+   
     <category>
+       <pattern>_ call _</pattern>
+      <template><srai>call</srai></template>
+   </category>
+     
+   <category>
      <pattern>hi</pattern>
      <template><srai>hello</srai></template>
-    </category>
+   </category>
     
-    <category>
+   <category>
      <pattern>Bye</pattern>
      <template>
       <random>
