@@ -149,87 +149,272 @@
       </category>
       
    </topic>
+   
    <category>
-      <pattern>ethereum developer</pattern>
-      <template><think><set name="topic">ethereum developer</set></think>
+      <pattern>_ ethereum developer _</pattern>
+      <template><srai>certified ethereum developer</srai></template>
+   </category>
+   
+   <category>
+      <pattern>ethereum developer _</pattern>
+      <template><srai>certified ethereum developer</srai></template>
+   </category>
+   
+   <category>
+      <pattern>certified ethereum developer</pattern>
+      <template><think><set name="topic">certified ethereum developer</set></think>
        The course helps in mastering Ethereum DApp development that lets individuals become primed in developing smart contracts and decentralized applications on the Ethereum blockchain. .wanna know more about eligibility criteria,fee,exam to get certificate?
       </template>
    </category>
-   <topic name="ethereum developer">
+   <topic name="cetified ethereum developer">
       <category>
-        <pattern>eligibility criteria</pattern>
+        <pattern>criteria</pattern>
         <template>Knowledge of Full Stack development using NodeJS is mandated.</template>
       </category>
       
       <category>
-        <pattern>eligibility _</pattern>
-         <template><srai>eligiblity criteria</srai></template>
+        <pattern>_ criteria _</pattern>
+         <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>criteria _</pattern>
+         <template><srai>criteria</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria</pattern>
+         <template><srai>criteria</srai></template>
       </category>
       
       <category>
         <pattern>Duration</pattern>
         <template>12 weeks.</template>
       </category>
+      
+      <category>
+        <pattern>_ duration _</pattern>
+         <template><srai>Duration</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ duration</pattern>
+        <template><srai>Duration</srai></template>
+      </category>
+      
+      <category>
+        <pattern>duration _</pattern>
+        <template><srai>Duration</srai></template>
+      </category>
+      
       <category>
         <pattern>fee</pattern>
         <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
       </category>
       
       <category>
-        <pattern>fees</pattern>
-        <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
+        <pattern>_ fee</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+       <category>
+        <pattern>fee _</pattern>
+        <template><srai>fee</srai></template>
       </category>
       
       <category>
         <pattern>_ fee _</pattern>
-        <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
+        <template><srai>fee</srai></template>
       </category>
       
       <category>
         <pattern>_ fees _</pattern>
-        <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
+        <template><srai>fee</srai></template>
       </category>
       
       <category>
         <pattern>fees _</pattern>
-        <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
+        <template><srai>fee</srai></template>
       </category>
       
       <category>
-        <pattern>fee  _</pattern>
-        <template>INR 6000 * [Indian Learners],USD 120 * [Foreign Learners]</template>
+        <pattern>_ fees</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+       <category>
+        <pattern>fees</pattern>
+        <template><srai>fee</srai></template>
       </category>
       
       <category>
-        <pattern>program structure be</pattern>
+        <pattern>program structure</pattern>
         <template>The training program is offered in self-paced mode.</template>
       </category>
+      
       <category>
-        <pattern>_criteria for getting the certificate</pattern>
+        <pattern>_ structure _</pattern>
+        <template><srai>program structure</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ structure</pattern>
+        <template><srai>program structure</srai></template>
+      </category>
+      
+      <category>
+        <pattern>structure _</pattern>
+        <template><srai>program structure</srai></template>
+      </category>
+      
+      <category>
+        <pattern>criteria for certificate</pattern>
+        <template>Successful completion of all the assessment quizzes and a project. Should acquire a minimum score of 60% to get certified.
+        </template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria for certificate _</pattern>
+         <template><srai>criteria for certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria for getting the certificate _</pattern>
+         <template><srai>criteria for certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria for getting the certificate</pattern>
+         <template><srai>criteria for certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>criteria for getting the certificate</pattern>
+         <template><srai>criteria for certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ criteria for certificate</pattern>
         <template>Successful completion of all the assessment quizzes and a project. Should acquire a minimum score of 60% to get certified.
         </template>
       </category>
 
       <category>
-       <pattern>How long a learner can access the contents</pattern>
+       <pattern>access the contents</pattern>
        <template>Learner gets lifetime access to the course contents.</template>
       </category>
-
+      
       <category>
-        <pattern>Who will be issuing the certificate</pattern>
+       <pattern>_ access the contents</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+     <category>
+       <pattern>_ access the content</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+       <pattern>_ access the contents _</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+       <pattern>_ access the content _</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+       <pattern>access the content</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issuing the certificate</pattern>
         <template>KBA will issue the certificate that is co-stamped by the Kerala Development and Innovation Strategic Council ( K-DISC) and MLG Blockchain.</template>
       </category>
+      
+      <category>
+        <pattern>_ issuing the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issuing the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issuing the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
 
       <category>
-        <pattern>How long will it take to get my certificate</pattern>
+        <pattern>issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issuing the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>get my certificate</pattern>
         <template>Certificates will be issued in a month of project submission followed its evaluation at the registered email address.</template>
       </category>
-
+      
       <category>
-        <pattern>How can I verify the issued certificate</pattern>
+        <pattern>_ get my certificate</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ get my certificate _</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_get the certificate</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ get the certificate _</pattern>
+        <template><srai>get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate</pattern>
         <template>We will issue your certificate into a Blockchain. The authenticity of your certificate can can be verified using https://verify.kba.ai</template>
       </category>
+      
+      <category>
+        <pattern>_ verify the certificate</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>  
    </topic>
+   
    <category>
       <pattern>certified block chain associate</pattern>
       <template><think><set name="topic">CBA</set></think>
