@@ -550,38 +550,185 @@
    </category>
    <topic name="CBA">
       <category>
-          <pattern>eligibility criteria</pattern>
+          <pattern>criteria</pattern>
           <template>No criteria, it is fundamental course</template>
+      </category>
+      <category>
+         <pattern>_criteria_</pattern>
+          <template><srai>criteria</srai></template>
       </category>
       <category>
         <pattern>fee</pattern>
         <template> Yes, this is a free course and you can learn the contents free of cost. There are six modules in this course and you have unlimited access to all of them once you enrol. At the end of the course, if you wish to obtain a verified certificate, then you have to pay INR 5000 + Applicable Taxes extra (for learners from India) or USD 100 + Applicable Taxes extra (for learners from outside India).</template>
       </category>
+      <category>
+        <pattern>_ fee</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>_ free</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>_ free _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>fee _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
       
       <category>
-        <pattern> _ I opt for the certificate</pattern>
+        <pattern>_ fee _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern> opt for certificate</pattern>
         <template> The online form to request the certificate and make the payment will be visible to you once you learn all the modules and attempt all the quizzes. Once you complete the end assessment formalities, you can submit the certificate request form and pay the required fee online. On receiving the payment, we will send the digital copy of your certificate to your registered e-mail address.</template>
+      </category>
+      <category>
+        <pattern> _ I opt for the certificate</pattern>
+         <template><srai> opt for certificate</srai></template>
+      </category>
+      <category>
+        <pattern> _ opt for the certificate_</pattern>
+         <template><srai> opt for certificate</srai></template>
       </category>
        
       <category>
-        <pattern> How can I verify the issued certificate</pattern>
+        <pattern>verify the certificate</pattern>
         <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
       </category>
-      
       <category>
-        <pattern> _ issuing the final certificate </pattern>
-        <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
+        <pattern>_ verify the certificate</pattern>
+        <template><srai>verify the certificate</srai></template>
       </category>
       
       <category>
-        <pattern>_ access the contents </pattern>
+        <pattern>_ verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issuing the certificate</pattern>
+        <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
+      </category>
+      <category>
+        <pattern>_ issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+
+      <category>
+        <pattern>issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>access the contents</pattern>
         <template> Paid candidates will have life long access until the course is live on the website. Unpaid candidates will have FREE access to the course content for two months from the date of enrolment.</template>
+      </category>
+      <category>
+       <pattern>_ access _</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+     <category>
+       <pattern>_ access</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+       <pattern>access _</pattern>
+        <template><srai>access the contents</srai></template>
       </category>
 
       <category>
         <pattern>exam</pattern>
         <template>There are six modules in this course and at the end of each module there will be an assessment through MCQ. To get the certificate, you need to complete all the quizzes with at least 60% marks. After completing the quizzes you may pay the fees for acquiring the certificate.</template>
       </category>
+      <category>
+        <pattern>_ exam</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ quiz _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
    </topic>
     <category>
        <pattern>certified block chain startup</pattern>
@@ -595,53 +742,224 @@
    </category>
    <topic name="CBstartup">
       <category>
-          <pattern>eligibility criteria</pattern>
+          <pattern>criteria</pattern>
           <template>No, there are no prerequisites to join this course. The course is open for students, graduates, business professionals, aspiring entrepreneurs who want to kick start their startup world or migrate their existing business to the blockchain.</template>
+      </category>
+      <category>
+         <pattern>_criteria_</pattern>
+          <template><srai>criteria</srai></template>
       </category>
       <category>
         <pattern>fee</pattern>
         <template> Free Audit,5000 INR / 100 USD + Taxes (for certification)</template>
       </category>
+      <category>
+        <pattern>_ fee</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>_ free</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>_ free _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+         
+      <category>
+        <pattern>fee _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
       
       <category>
-        <pattern> _ I opt for the certificate</pattern>
+        <pattern>_ fee _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees _</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ fees</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fees</pattern>
+        <template><srai>fee</srai></template>
+      </category>
+      
+      <category>
+        <pattern>opt for the certificate</pattern>
         <template> The online form to request the certificate and make the payment will be visible to you once you learn all the modules and attempt all the quizzes. Once you complete the end assessment formalities, you can submit the certificate request form and pay the required fee online. On receiving the payment, we will send the digital copy of your certificate to your registered e-mail address.</template>
+      </category>
+      <category>
+        <pattern> _ I opt for the certificate</pattern>
+         <template><srai> opt for certificate</srai></template>
+      </category>
+      <category>
+        <pattern> _ opt for the certificate_</pattern>
+         <template><srai> opt for certificate</srai></template>
       </category>
        
       <category>
-        <pattern> How can I verify the issued certificate</pattern>
+        <pattern>verify the issued certificate</pattern>
         <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
+      </category>
+      <category>
+        <pattern>_ verify the certificate</pattern>
+        <template><srai>verify the certificate</srai></template>
       </category>
       
       <category>
-        <pattern> _ issuing the final certificate </pattern>
+        <pattern>_ verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>verify the certificate _</pattern>
+        <template><srai>verify the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>issuing the certificate</pattern>
         <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
+      </category>
+      <category>
+        <pattern>_ issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ issue the certificate _</pattern>
+        <template><srai>issuing the certificate</srai></template>
+      </category>
+
+      <category>
+        <pattern>issue the certificate</pattern>
+        <template><srai>issuing the certificate</srai></template>
       </category>
       
       <category>
           <pattern>technical requirements</pattern>
           <template>CBS program is designed to work on any internet-connected device. A steady broadband internet connectivity is highly recommended to access the rich media in the program.</template>
       </category>
+      <category>
+         <pattern>_requirements_</pattern>
+         <template><srai>technical requirements</srai></template>
+      </category>
       
       <category>
-        <pattern>_ access the contents </pattern>
+        <pattern>access the contents</pattern>
         <template>Yes, in our blockchain entrepreneurship training, you’ll have access to the materials on a regular basis as you progress through the course. You’ll have lifetime access to all these contents giving you an additional benefit of future reference.</template>
+      </category>
+       <category>
+       <pattern>_ access _</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+     <category>
+       <pattern>_ access</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+       <pattern>access _</pattern>
+        <template><srai>access the contents</srai></template>
       </category>
 
       <category>
         <pattern>exam</pattern>
         <template>A minimum of 60% of marks in both theory and project report is mandatory for earning your certification in CBS. </template>
       </category>
+      <category>
+        <pattern>_ exam</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
       
       <category>
-          <pattern>what will i learn from this program</pattern>
+        <pattern>_ exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>exam _</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_ quiz _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes _</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quiz</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_ quizzes</pattern>
+        <template><srai>exam</srai></template>
+      </category> 
+      
+      <category>
+          <pattern>learning from this program</pattern>
           <template>You’ll be trained in everything from identifying a business opportunity to evaluating your business idea, accessing the right market to exploring the risks and rewards in entrepreneurship, validating your business strategies to discovering key financial decisions, understanding how to raise capitals and the process of connecting with investors, fundamentals and application arenas of blockchain in the business domain. You’ll be thoroughly trained in how to apply the learned entrepreneurial skills in building a business surrounding blockchain.</template>
       </category>
+      <category>
+         <pattern>_learning_ </pattern>
+         <template><srai>learning from this program</srai></template>
+      <category>
+      <category>
+         <pattern>key takeaways</pattern>
+         <template><srai>learning from this program</srai></template>
+      <category>
+      <category>
+         <pattern>_key takeaways_</pattern>
+         <template><srai>learning from this program</srai></template>
+      <category>
        
       <category>
-         <pattern> How do I enrol for this program? </pattern>
-         <template> The enrolment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
+         <pattern>enrol</pattern>
+         <template> The enrollment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
             prajna.duk.ac.in or can directly register at admission.kba.ai/edii </template>
+      </category>
+      <category>
+         <pattern>_enrollment_</pattern>
+         <template><srai>enrol</srai></template>
+      </category>
+      <category>
+         <pattern>_enroll_</pattern>
+         <template><srai>enrol</srai></template>
       </category>
    </topic>
    <category>
