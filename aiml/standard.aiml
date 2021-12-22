@@ -967,10 +967,6 @@
       <template><srai>block chain fundamental _</srai></template>
    </category>
    <category>
-      <pattern>block chain fundamental</pattern>
-      <template><srai>block chain fundamental _</srai></template>
-   </category>
-   <category>
       <pattern>block chain fundamental _</pattern>
       <template><think><set name="topic">BCF</set></think>
       The foundation program tour across the inner workings and mechanics of the blockchain by explaining concepts like decentralization, peer-to-peer networking, smart contract automation, and many more.. wanna know more about eligibility criteria,fee,exam to get certificate?
@@ -981,34 +977,137 @@
           <pattern>eligibility criteria</pattern>
           <template>There are no prerequisites to join this program. The course is open for students, graduates, business professionals, who want to taste the nectar of blockchain and its future predictions.</template>
       </category>
+      
+      <category>
+          <pattern>_eligibility criteria_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_prerequisites_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_prerequisite_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
+      
       <category>
         <pattern>program structure</pattern>
         <template>
            The training program is offered in cohort mode, where each cohort is of 4 WEEKS (1 MONTH) duration. There will be a weekly interactive session for the participants to clarify their subject which shall be communicated via the registered email id.
         </template>
-    </category>
-      <category>
-          <pattern>duration</pattern>
-          <template>4weeks</template>
       </category>
       <category>
-        <pattern>fee</pattern>
-        <template> Free Audit</template>
+        <pattern>_program structure_</pattern>
+        <template><srai>program structure</srai></template>
       </category>
       
       <category>
-        <pattern> How can I verify the issued certificate</pattern>
+        <pattern>_structure_</pattern>
+        <template><srai>program structure</srai></template>
+      </category>
+     
+      <category>
+          <pattern>duration</pattern>
+          <template>4 weeks</template>
+      </category>
+      
+      <category>
+          <pattern>_time_</pattern>
+          <template><srai>duration</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_time duration_</pattern>
+          <template><srai>duration</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_duration_</pattern>
+          <template><srai>duration</srai></template>
+      </category>
+      
+      <category>
+        <pattern>fee</pattern>
+        <template>Free Audit. No fee for certification</template>
+      </category>
+      
+       <category>
+        <pattern>_fee_</pattern>
+        <template><srai>fee</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_fees_</pattern>
+        <template><srai>fee</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>How can I verify the issued certificate</pattern>
         <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
       </category>
       
       <category>
-        <pattern> _ issuing the final certificate </pattern>
+        <pattern>_verify the certificate_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_certificate verification_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_verification of certificate_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category>
+         
+      
+      <category>
+        <pattern>who will issue the final certificate</pattern>
         <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
       </category>
       
       <category>
-        <pattern>_ access the contents </pattern>
+        <pattern>_issue the certificate_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_issues_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>_issuign the final certificate_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>access the contents</pattern>
         <template>Learner gets full access to the course contents during the cohort period. It is advised to complete the program within the time period as content will be removed once the cohort is over.</template>
+      </category>
+      
+      <category>
+        <pattern>_access_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_access the contents_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_contents_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_content_</pattern>
+        <template><srai>access the contents</srai></template>
       </category>
       
       <category>
@@ -1016,35 +1115,122 @@
         <template>
             You will receive the certificate within one week at your registered email address, after the end date of your cohort.
         </template>
-    </category>
+      </category>
+      
+      <category>
+        <pattern>_time to get my certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to recieve my certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to recieve the certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>_time to recieve certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>_time to get the certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to get certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
      <category>
         <pattern>exam</pattern>
         <template>The candidates have to complete all the assessment quizzes and should score a minimum of 60% marks for each quiz to get certified. </template>
      </category>
+      
+      <category>
+        <pattern>_exam_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_exams_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_quiz_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_quizzes_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get my certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get the certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
       
      <category>
           <pattern>what will i learn from this program</pattern>
           <template>You’ll be trained in everything from identifying a business opportunity to evaluating your business idea, accessing the right market to exploring the risks and rewards in entrepreneurship, validating your business strategies to discovering key financial decisions, understanding how to raise capitals and the process of connecting with investors, fundamentals and application arenas of blockchain in the business domain. You’ll be thoroughly trained in how to apply the learned entrepreneurial skills in building a business surrounding blockchain.</template>
      </category>
        
+      <category>
+          <pattern>_learn from this program_</pattern>
+          <template><srai>what will i learn from this program</srai></template>
+      </category>
+      
+       <category>
+          <pattern>_learn from the program_</pattern>
+          <template><srai>what will i learn from this program</srai></template>
+      </category>
+      
      <category>
-         <pattern> How do I enrol for this program? </pattern>
+         <pattern>How do I enroll for this program?</pattern>
          <template> The enrolment demands the completion of a brief application. You can apply for and enrol in the entrepreneurship training program through
             prajna.duk.ac.in or can directly register at admission.kba.ai/edii </template>
      </category>
+      
+       <category>
+         <pattern>_enroll for the program_</pattern>
+         <template><srai>How do I enroll for this program?</srai></template>
+      </category>
+      
+      <category>
+         <pattern>_enroll for this program_</pattern>
+         <template><srai>How do I enroll for this program?</srai></template>
+      </category>
+      
+      <category>
+         <pattern>_enrollment_</pattern>
+         <template><srai>How do I enroll for this program?</srai></template>
+      </category>
    </topic>
    
    <category>
       <pattern>ethereum fundamentals</pattern>
-      <template><srai>ethereum fundamental</srai></template>
+      <template><srai>ethereum fundamental_</srai></template>
    </category>
+ 
    <category>
-      <pattern>ethereum fundamental _</pattern>
-      <template><srai>ethereum fundamental</srai></template>
-   </category>
-         
-   <category>
-      <pattern>ethereum fundamental</pattern>
+      <pattern>ethereum fundamental_</pattern>
       <template><think><set name="topic">EFP</set></think>
       The free course help in mastering Ethereum development fundamentals that individuals become primed in developing smart contracts and decentralized applications on Ethereum blockchain.. wanna know more about eligibility criteria,fee,exam to get certificate?
       </template>
@@ -1057,12 +1243,37 @@
 (CBA Online)
 and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS).</template>
       </category>
+      
+      <category>
+          <pattern>_eligibility criteria_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_prerequisites_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
+      
+      <category>
+          <pattern>_prerequisite_</pattern>
+         <template><srai>eligibility criteria</srai></template>
+      </category>
     
       <category>
         <pattern>fee</pattern>
         <template>No, this course is not free. Some of the selected units are free for you to audit and get a flavour of the course. In order to pursue the complete course and get certified, you’re requested to make the fee payment and actively engage in self-paced learning. There are seven modules in this course and you have unlimited access to all of them once you pay the course fee and enrol.</template>
       </category>
-       
+      
+       <category>
+        <pattern>_fee_</pattern>
+        <template><srai>fee</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_fees_</pattern>
+        <template><srai>fee</srai></template>
+      </category> 
+      
       <category>
         <pattern>program structure</pattern>
         <template>
@@ -1071,18 +1282,78 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
       </category>
       
       <category>
-        <pattern> How can I verify the issued certificate</pattern>
-        <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
+        <pattern>_program structure_</pattern>
+        <template><srai>program structure</srai></template>
       </category>
       
       <category>
-        <pattern> _ issuing the final certificate </pattern>
+        <pattern>_structure_</pattern>
+        <template><srai>program structure</srai></template>
+      </category>
+      
+      <category>
+        <pattern>How can I verify the issued certificate</pattern>
+        <template> We will issue your certificate into a Blockchain. The authenticity of your certificate can be verified using https://verify.kba.ai. </template>
+      </category>
+      
+       <category>
+        <pattern>_verify the certificate_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category> 
+      
+      <category>
+        <pattern>_certificate verification_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_verification of certificate_</pattern>
+         <template><srai>How can I verify the issued certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>who will issue the final certificate</pattern>
         <template> If you opt for the certificate, Kerala Blockchain Academy will issue your certificate which is co-stamped by the Indian Institute of Information Technology and Management - Kerala (IIITM-K) and MLG Blockchain. </template>
       </category>
       
       <category>
-        <pattern>_ access the contents </pattern>
+        <pattern>_issue the certificate_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_issues_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_issuing the final certificate_</pattern>
+         <template><srai>who will issue the final certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>access the contents</pattern>
         <template>Learner gets full access to the course contents during the cohort period. It is advised to complete the program within the time period as content will be removed once the cohort is over</template>
+      </category>
+      
+       <category>
+        <pattern>_access_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_access the contents_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_contents_</pattern>
+        <template><srai>access the contents</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_content_</pattern>
+        <template><srai>access the contents</srai></template>
       </category>
       
       <category>
@@ -1091,11 +1362,76 @@ and Knowledge on Full Stack Development (HTML, CSS, JavaScript, Express, Node.JS
             You will receive the certificate within one week at your registered email address, after the end date of your cohort.
         </template>
     </category>
+      
+       <category>
+        <pattern>_time to get my certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to recieve my certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to recieve the certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>_time to recieve certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+       <category>
+        <pattern>_time to get the certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_time to get certificate_</pattern>
+         <template><srai>How long will it take to get my certificate</srai></template>
+      </category>
     
     <category>
         <pattern>exam</pattern>
         <template>The candidates have to complete all the assessment quizzes and should score a minimum of 70% marks for each quiz to get certified.</template>
     </category>
+      
+       <category>
+        <pattern>_exam_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_exams_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_quiz_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_quizzes_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get my certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get the certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
+      
+      <category>
+        <pattern>_marks to get certificate_</pattern>
+        <template><srai>exam</srai></template>
+      </category>
    </topic>
    
    <category>
